@@ -40,4 +40,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happ-2h&layout=donut&langs_count=8&card_width=320&theme=gruvbox&hide_border=true&bg_color=00000000" />
 </a>
 
-[![happ-2h's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=happ-2h&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![happ-2h's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=happ-2h&hide_border=true&bg_color=00000000&title_color=fabd2f&color=8ec07c&point=fe8019&line=83a598)](https://github.com/ashutosh00710/github-readme-activity-graph)
